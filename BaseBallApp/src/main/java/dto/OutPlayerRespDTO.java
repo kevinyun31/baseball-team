@@ -1,2 +1,5 @@
-package dto;public class OutPlayerRespDTO {
+package dto;
+
+public class OutPlayerRespDTO {
+
 }

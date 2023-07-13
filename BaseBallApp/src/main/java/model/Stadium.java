@@ -8,7 +8,7 @@ import lombok.Setter;
 import java.sql.Timestamp;
 
 @Getter @Setter @AllArgsConstructor
-public class Stadium {
+public class Stadium extends Object {
 
     private  Integer stadiumId;//PK
     private  String name;

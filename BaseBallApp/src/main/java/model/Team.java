@@ -13,6 +13,8 @@ public class Team {
     private  String name;
     private Timestamp createdAt;
 
+    public Team (int stadiumId, String name, Timestamp createdAt){
+            }
     @Override
     public String toString() {
         return "Team{" +
